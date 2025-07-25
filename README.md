@@ -25,8 +25,9 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 ### BI: Analytics & Reporting (Data Analytics)
 
 #### Objective
+
 Develop SQL-based analytics to deliver detailed insights into:
--**Customer Behavior**
--**Product Performance**
--**Sales Trends**
+- **Customer Behavior**
+- **Product Performance**
+- **Sales Trends**
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
